@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TPWinForm_equipo_8B_V2
+namespace dominio
 {
-    internal class Categoria
+    public class Marca
     {
         public int Id { get; set; }
         public string Descripcion { get; set; }
@@ -16,4 +16,6 @@ namespace TPWinForm_equipo_8B_V2
             return Descripcion;
         }
     }
+    
+
 }

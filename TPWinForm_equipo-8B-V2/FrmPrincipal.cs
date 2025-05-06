@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using dominio;
+using negocio;
 
 namespace TPWinForm_equipo_8B_V2
 {
